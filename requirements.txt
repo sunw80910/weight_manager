@@ -1,0 +1,7 @@
+Flask==3.1.1
+openpyxl==3.1.5
+pandas==2.3.1
+PyMySQL==1.1.1
+SQLAlchemy==2.0.41
+scikit-learn==1.7.1
+tqdm==4.67.1
